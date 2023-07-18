@@ -1,6 +1,6 @@
 ![MasterHead](https://www.s7rtechnology.in/img/it.jpg)
 <h1 align="center">Hi 👋, I'm Omar An-naggar</h1>
-<h3 align="center">A frontend developer & a coding Instructor</h3>
+<h3 align="center">A Front-End Developer & a Coding Instructor</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nagarco?tab=repositories](https://github.com/Nagarco?tab=repositories)
